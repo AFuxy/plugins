@@ -2,11 +2,12 @@
  * @name noPictures
  * @author DarkMatter
  * @description Removes all profile pictures and server pictures
- * @version 0.0.1
+ * @version 0.2.4
  * @authorId 200612445373464576
  * @authorLink https://bubblez.app/p?DarkMatter
  * @website https://bubblez.app/p?DarkMatter
- * @source 
+ * @source https://github.com/AFuxy/plugins/tree/main/noPictures
+ * @updateUrl https://raw.githubusercontent.com/AFuxy/plugins/main/noPictures/noPictures.plugin.js
  */
 
  module.exports = (_ => {
@@ -16,7 +17,7 @@
             authors: [
                 {name: 'DarkMatter', discord_id: '200612445373464576', github_username: 'AFuxy', website: "https://bubblez.app/p?DarkMatter"}
             ],
-            version: '0.0.1',
+            version: '0.2.4',
             description: 'Removes all profile pictures and server pictures',
             github_raw: '',
             github: ''
